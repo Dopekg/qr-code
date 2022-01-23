@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://qr-code-ruby.vercel.app/](https://qr-code-ruby.vercel.app/)
+- Live Site URL: [https://qr-code-esff7lzal-klohier.vercel.app/](https://qr-code-esff7lzal-klohier.vercel.app/)
 
 
 
